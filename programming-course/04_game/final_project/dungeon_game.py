@@ -81,8 +81,10 @@ class Game:
 
                 if action == "h":
                     self.player.heal()
-                else:
+                elif action == "a":
                     self.battle.fight_round(self.player, monster)
+                else:
+                    print("Ungültige Aktion. Wähle 'a' oder 'h'.")
 
             if self.player.is_alive():
                 print(f"{monster.name} wurde besiegt!")
