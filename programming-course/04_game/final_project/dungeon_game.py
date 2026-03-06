@@ -4,6 +4,7 @@ import random
 class Player:
     def __init__(self, name, hp=100, attack=14):
         self.name = name
+        self.max_hp = hp
         self.hp = hp
         self.attack = attack
         self.potions = 2
@@ -20,7 +21,7 @@ class Player:
             return
         self.potions -= 1
         heal_amount = random.randint(12, 22)
-        self.hp = min(100, self.hp + heal_amount)
+        self.hp = min(self.max_hp, self.hp + heal_amount)
         print(f"{self.name} heilt sich um {heal_amount} HP. (HP: {self.hp})")
 
 
