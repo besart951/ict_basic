@@ -66,7 +66,7 @@ class Game:
 
     def start(self):
         print("=== Dungeon Quest ===")
-        name = input("Wie heißt dein Held? ").strip() or "Held"
+        name = input("Wie heisst dein Held? ").strip() or "Held"
         self.player = Player(name)
         print(f"Willkommen, {self.player.name}!\n")
 
