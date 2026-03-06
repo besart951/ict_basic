@@ -50,17 +50,18 @@ class BattleSystem:
 
 
 class Game:
+    MONSTER_POOL = [
+        Monster("Slime", 35, 8),
+        Monster("Goblin", 45, 10),
+        Monster("Skelett", 55, 12),
+    ]
+
     def __init__(self):
         self.player = None
         self.battle = BattleSystem()
 
     def create_monster(self):
-        pool = [
-            Monster("Slime", 35, 8),
-            Monster("Goblin", 45, 10),
-            Monster("Skelett", 55, 12),
-        ]
-        return random.choice(pool)
+        return random.choice(self.MONSTER_POOL)
 
     def start(self):
         print("=== Dungeon Quest ===")
