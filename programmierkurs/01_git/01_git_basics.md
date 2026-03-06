@@ -12,7 +12,7 @@ Git speichert Versionen deines Codes. Du kannst jederzeit zu einer älteren Vers
 
 ## So funktioniert die Quellcodeverwaltung in VS Code
 
-1. Klicke auf das **Quellcodeverwaltung-Symbol** in der linken Leiste (oder `Strg+Shift+G`)
+1. Klicke auf das **Quellcodeverwaltung-Symbol** in der linken Leiste (oder `Ctrl+Shift+G`)
 2. Du siehst alle geänderten Dateien
 3. Klicke auf das **`+`** neben einer Datei, um sie zu stagen
 4. Gib eine kurze Beschreibung ein (z. B. `erste Änderungen`)
@@ -27,5 +27,5 @@ Datei ändern  →  + (stagen)  →  Commit  →  Push
 ## Mini-Aufgaben
 
 1. Öffne den `programmierkurs`-Ordner in VS Code.
-2. Öffne die Quellcodeverwaltung (`Strg+Shift+G`).
+2. Öffne die Quellcodeverwaltung (`Ctrl+Shift+G`).
 3. Schau dir an, welche Dateien dort angezeigt werden.

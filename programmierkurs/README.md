@@ -20,7 +20,7 @@ Willkommen! Dieser Kurs führt dich **Schritt für Schritt** durch:
    - **Python** (Microsoft)
    - **Pylance**
 3. Wähle den Python-Interpreter:
-   - `Strg+Shift+P` → `Python: Select Interpreter`
+   - `Ctrl+Shift+P` → `Python: Select Interpreter`
 
 ## Kursstruktur
 

@@ -5,7 +5,7 @@ Hier lernst du die wichtigsten Python-Bausteine.
 ## VS Code einrichten
 
 - Erweiterung: **Python** (Microsoft)
-- Interpreter wählen: `Strg+Shift+P` → `Python: Select Interpreter`
+- Interpreter wählen: `Ctrl+Shift+P` → `Python: Select Interpreter`
 - Code ausführen: Rechtsklick → **Python-Datei im Terminal ausführen**
 
 ## Reihenfolge

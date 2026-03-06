@@ -9,14 +9,14 @@
 
 ### 2. Ordner in VS Code mit GitHub verbinden
 1. Öffne den Ordner in VS Code.
-2. Klicke auf `Quellcodeverwaltung` (`Strg+Shift+G`).
+2. Klicke auf `Quellcodeverwaltung` (`Ctrl+Shift+G`).
 3. Klicke auf **Repository initialisieren**.
 4. Klicke auf **...** (oben rechts) → **Remote hinzufügen**.
 5. Füge den GitHub-Link ein und bestätige.
 
 ### 3. Commit erstellen
 1. Ändere eine Datei oder erstelle eine neue.
-2. Öffne die Quellcodeverwaltung (`Strg+Shift+G`).
+2. Öffne die Quellcodeverwaltung (`Ctrl+Shift+G`).
 3. Klicke auf **`+`** neben der geänderten Datei.
 4. Gib eine Nachricht ein, z. B. `Erster Commit`.
 5. Klicke auf **Commit ✓**.
