@@ -10,7 +10,7 @@ game.start()
 ```
 
 ## Visualisierung
-Start -> Begrüßung -> Spielschleife
+Start -> Begrüssung -> Spielschleife
 
 ## Kleine Aufgaben
 1. Ergänze einen Spielernamen.

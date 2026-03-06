@@ -1,4 +1,4 @@
-# Final Challenge: Erweitere dein Dungeon Game
+# Herausforderung: Erweitere dein Dungeon-Spiel
 
 ## Pflicht
 - Neue Monsterart einbauen
@@ -8,4 +8,4 @@
 ## Kreativ-Ideen
 - Inventar
 - XP und Level-Up
-- Spezialangriff mit Cooldown
+- Spezialangriff mit Abklingzeit
